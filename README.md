@@ -7,7 +7,7 @@ When the user presses any key on the keyboard, the pattern should appear on the 
   
 ## Team Members
 | **NAME** |
-| --- | --- | 
+| --- |
 | AKARSH S NAIR |
 | ALFY ALEX | 
 | NAYAN M.K | 
