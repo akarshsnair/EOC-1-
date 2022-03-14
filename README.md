@@ -6,11 +6,11 @@ When the user presses any key on the keyboard, the pattern should appear on the 
 <div align="center">
   
 ## Team Members
-| **NAME** | **ROLL-NUMBER** | 
+| **NAME** |
 | --- | --- | 
-| AKARSH S NAIR |AM.EN.U4AIE21008|
-| ALFY ALEX | AM.EN.U4AIE21011   |
-| NAYAN M.K | AM.EN.U4AIE21048   |
-| SHYAMDEV KRISHNAN J | AM.EN.U4AIE21060 |
-| SANTHOSH MAMIDISETTI | AM.EN.U4AIE21042 |
+| AKARSH S NAIR |
+| ALFY ALEX | 
+| NAYAN M.K | 
+| SHYAMDEV KRISHNAN J | 
+| SANTHOSH MAMIDISETTI | 
   </div>
